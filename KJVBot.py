@@ -7,7 +7,6 @@
 # --- Imports ---
 import api.bible
 import sys
-from profanity import profanity
 import discord
 import asyncio
 from discord.utils import get
