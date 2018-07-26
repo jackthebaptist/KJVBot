@@ -105,4 +105,4 @@ async def on_message(message):
 		print("\033[32m[+]\033[39m request for VOTD by: "+message.author.mention)	
 		
 
-client.run('NDI4MjA1MzkxODU2NTMzNTE4.DZ0sFQ.T1DirR7ETGatLwo-IMCSoGlLtkA')
+client.run('ADD BOT ID HERE')
